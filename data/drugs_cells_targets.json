@@ -1,0 +1,2059 @@
+{
+    "BRD-K38775274": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A549",
+            "MCF7",
+            "HT29"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A82238138": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A22032524": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "CACNA1D"
+        ]
+    },
+    "BRD-A92177080": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K46137903": {
+        "cells": [
+            "HCC515",
+            "A549",
+            "MCF7",
+            "HT29"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A82371568": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "POLA1",
+            "POLE"
+        ]
+    },
+    "BRD-A97437073": {
+        "cells": [
+            "A549",
+            "A375",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "PPARG"
+        ]
+    },
+    "BRD-K28307902": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "AR"
+        ]
+    },
+    "BRD-A35108200": {
+        "cells": [
+            "HCC515",
+            "A375",
+            "MCF7",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A23770159": {
+        "cells": [
+            "VCAP",
+            "HT29",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "FKBP1A"
+        ]
+    },
+    "BRD-A81233518": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "CHRM3"
+        ]
+    },
+    "BRD-A01643550": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K56343971": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "BRAF"
+        ]
+    },
+    "BRD-K36927236": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "ABCC8",
+            "KCNJ11"
+        ]
+    },
+    "BRD-K76723084": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "A549"
+        ],
+        "targets": [
+            "RARB"
+        ]
+    },
+    "BRD-K56851771": {
+        "cells": [
+            "VCAP",
+            "HT29",
+            "A375",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "AR"
+        ]
+    },
+    "BRD-A76528577": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "TUBB4",
+            "TUBA1B",
+            "TUBA4A",
+            "TUBB2C",
+            "TUBA3C",
+            "TUBA3D",
+            "TUBB2A",
+            "TUBB8",
+            "TUBA3E",
+            "TUBA1A",
+            "TUBA1C",
+            "TUBB6",
+            "TUBB2B"
+        ]
+    },
+    "BRD-K47635719": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K76205745": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "AGTR1"
+        ]
+    },
+    "BRD-A16998493": {
+        "cells": [
+            "VCAP",
+            "A549",
+            "A375",
+            "HT29"
+        ],
+        "targets": [
+            "PTGS2",
+            "COX2"
+        ]
+    },
+    "BRD-K18194590": {
+        "cells": [
+            "HCC515",
+            "A549",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "ADRA2A"
+        ]
+    },
+    "BRD-A75144621": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "ATP1A1",
+            "ATP1B1",
+            "ATP1A3",
+            "ATP1B2",
+            "ATP1A2",
+            "ATP1B3",
+            "FXYD2",
+            "ATP1A4"
+        ]
+    },
+    "BRD-A78391468": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "A549"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A26711594": {
+        "cells": [
+            "VCAP",
+            "HT29",
+            "A549",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "CACNA1D"
+        ]
+    },
+    "BRD-K55395145": {
+        "cells": [
+            "HCC515",
+            "A375",
+            "MCF7",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "GART"
+        ]
+    },
+    "BRD-K73999723": {
+        "cells": [
+            "VCAP",
+            "A549",
+            "A375",
+            "HA1E"
+        ],
+        "targets": [
+            "AGTR1"
+        ]
+    },
+    "BRD-K77554836": {
+        "cells": [
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A23637604": {
+        "cells": [
+            "VCAP",
+            "A375",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "AR"
+        ]
+    },
+    "BRD-A65449987": {
+        "cells": [
+            "HCC515",
+            "A375",
+            "MCF7",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K28936863": {
+        "cells": [
+            "HCC515",
+            "A549",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "HRH1"
+        ]
+    },
+    "BRD-K15108141": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "POLA1",
+            "POLE"
+        ]
+    },
+    "BRD-K77175907": {
+        "cells": [
+            "VCAP",
+            "A375",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "VDR"
+        ]
+    },
+    "BRD-A20126139": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A549",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K18135438": {
+        "cells": [
+            "VCAP",
+            "A549",
+            "A375",
+            "HT29"
+        ],
+        "targets": [
+            "NR1H4"
+        ]
+    },
+    "BRD-A69512159": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "DDC"
+        ]
+    },
+    "BRD-A23723433": {
+        "cells": [
+            "A549",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "TUBB4",
+            "TUBA1B",
+            "TUBA4A",
+            "TUBB2C",
+            "TUBA3C",
+            "TUBA3D",
+            "TUBB2A",
+            "TUBB8",
+            "TUBA3E",
+            "TUBA1A",
+            "TUBA1C",
+            "TUBB6",
+            "TUBB2B"
+        ]
+    },
+    "BRD-K31627533": {
+        "cells": [
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K82109576": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "TUBB4",
+            "TUBA1B",
+            "TUBA4A",
+            "TUBB2C",
+            "TUBA3C",
+            "TUBA3D",
+            "TUBB2A",
+            "TUBB8",
+            "TUBA3E",
+            "TUBA1A",
+            "TUBA1C",
+            "TUBB6",
+            "TUBB2B"
+        ]
+    },
+    "BRD-A79672927": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A375",
+            "MCF7"
+        ],
+        "targets": [
+            "CHRM3"
+        ]
+    },
+    "BRD-K72238567": {
+        "cells": [
+            "HT29",
+            "A375",
+            "MCF7",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "POLA1",
+            "POLE"
+        ]
+    },
+    "BRD-A70155556": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "HMGCR"
+        ]
+    },
+    "BRD-K84937637": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "FKBP1A"
+        ]
+    },
+    "BRD-K84036904": {
+        "cells": [
+            "VCAP",
+            "A375",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "AR"
+        ]
+    },
+    "BRD-A90131694": {
+        "cells": [
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A02180903": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "A549"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A68723818": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A375",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "HRH1"
+        ]
+    },
+    "BRD-A27887842": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K56429665": {
+        "cells": [
+            "HT29",
+            "A375",
+            "MCF7",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "VDR"
+        ]
+    },
+    "BRD-A79768653": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "FKBP1A"
+        ]
+    },
+    "BRD-K32821942": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "PPAT"
+        ]
+    },
+    "BRD-K60511616": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "HMGCR"
+        ]
+    },
+    "BRD-K38003476": {
+        "cells": [
+            "HCC515",
+            "A375",
+            "MCF7",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A63894585": {
+        "cells": [
+            "HT29",
+            "HCC515",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K88510285": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "PSMB11",
+            "PSMA7",
+            "PSMB1",
+            "PSMA1",
+            "PSMA2",
+            "PSMA3",
+            "PSMA4",
+            "PSMB9",
+            "PSMA5",
+            "PSMB4",
+            "PSMB5",
+            "PSMB10",
+            "PSMB3",
+            "PSMA6",
+            "PSMA8",
+            "PSMB7"
+        ]
+    },
+    "BRD-K28143534": {
+        "cells": [
+            "A549",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "HRH1"
+        ]
+    },
+    "BRD-K02637541": {
+        "cells": [
+            "HT29",
+            "VCAP",
+            "HCC515",
+            "A375",
+            "HA1E"
+        ],
+        "targets": [
+            "PTGS2",
+            "COX2"
+        ]
+    },
+    "BRD-K00824317": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "A549"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A48720949": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "A549"
+        ],
+        "targets": [
+            "AR"
+        ]
+    },
+    "BRD-K97810537": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A83237092": {
+        "cells": [
+            "HCC515",
+            "A375",
+            "MCF7",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "ESR1"
+        ]
+    },
+    "BRD-K32744045": {
+        "cells": [
+            "HT29",
+            "A375",
+            "MCF7",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "ALDH2"
+        ]
+    },
+    "BRD-K67174588": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "ESR1"
+        ]
+    },
+    "BRD-A46186775": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K49328571": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "LCK",
+            "YES1",
+            "FRK",
+            "BLK"
+        ]
+    },
+    "BRD-A77824596": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A23359898": {
+        "cells": [
+            "VCAP",
+            "A375",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "SLC6A2",
+            "NAT1",
+            "NET1",
+            "SLC6A5"
+        ]
+    },
+    "BRD-K27721098": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A549",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "P2RY12"
+        ]
+    },
+    "BRD-A69636825": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "CACNA1D"
+        ]
+    },
+    "BRD-K60640630": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K33106058": {
+        "cells": [
+            "VCAP",
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "POLA1",
+            "POLE"
+        ]
+    },
+    "BRD-A30815329": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "CACNA1D"
+        ]
+    },
+    "BRD-A29426959": {
+        "cells": [
+            "HT29",
+            "VCAP",
+            "HCC515",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "HRH1"
+        ]
+    },
+    "BRD-A49225603": {
+        "cells": [
+            "HT29",
+            "A375",
+            "MCF7",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "HRH1"
+        ]
+    },
+    "BRD-K10916986": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "TUBB4",
+            "TUBA1B",
+            "TUBA4A",
+            "TUBB2C",
+            "TUBA3C",
+            "TUBA3D",
+            "TUBB2A",
+            "TUBB8",
+            "TUBA3E",
+            "TUBA1A",
+            "TUBA1C",
+            "TUBB6",
+            "TUBB2B"
+        ]
+    },
+    "BRD-K35483542": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "RARA",
+            "RARG",
+            "RXRA"
+        ]
+    },
+    "BRD-K43736954": {
+        "cells": [
+            "VCAP",
+            "HT29",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K23478508": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "ATP1A1",
+            "ATP1B1",
+            "ATP1A3",
+            "ATP1B2",
+            "ATP1A2",
+            "ATP1B3",
+            "FXYD2",
+            "ATP1A4"
+        ]
+    },
+    "BRD-K66296774": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A549",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "HMGCR"
+        ]
+    },
+    "BRD-A37780065": {
+        "cells": [
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A81772229": {
+        "cells": [
+            "VCAP",
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "HMGCR"
+        ]
+    },
+    "BRD-K65146499": {
+        "cells": [
+            "VCAP",
+            "HT29",
+            "A375",
+            "HA1E"
+        ],
+        "targets": [
+            "PTGS2",
+            "COX2"
+        ]
+    },
+    "BRD-A15297126": {
+        "cells": [
+            "HCC515",
+            "A375",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K96354014": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "CACNA1D"
+        ]
+    },
+    "BRD-A55393291": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "A549"
+        ],
+        "targets": [
+            "AR"
+        ]
+    },
+    "BRD-K17674993": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A549",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A49765801": {
+        "cells": [
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A62025033": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "FKBP1A"
+        ]
+    },
+    "BRD-K23566484": {
+        "cells": [
+            "VCAP",
+            "A549",
+            "MCF7",
+            "HT29"
+        ],
+        "targets": [
+            "AR"
+        ]
+    },
+    "BRD-A94756469": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "ATP1A1",
+            "ATP1B1",
+            "ATP1A3",
+            "ATP1B2",
+            "ATP1A2",
+            "ATP1B3",
+            "FXYD2",
+            "ATP1A4"
+        ]
+    },
+    "BRD-A07765530": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "ADRA2A"
+        ]
+    },
+    "BRD-A34299591": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K11129031": {
+        "cells": [
+            "VCAP",
+            "A549",
+            "A375",
+            "MCF7",
+            "HT29"
+        ],
+        "targets": [
+            "PPARA"
+        ]
+    },
+    "BRD-A36010170": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K27316855": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "VDR"
+        ]
+    },
+    "BRD-K53790871": {
+        "cells": [
+            "VCAP",
+            "A549",
+            "A375",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K08547377": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "TOP1"
+        ]
+    },
+    "BRD-K47832606": {
+        "cells": [
+            "HCC515",
+            "A549",
+            "MCF7",
+            "HT29"
+        ],
+        "targets": [
+            "TYMS"
+        ]
+    },
+    "BRD-A28746609": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "TUBB4",
+            "TUBA1B",
+            "TUBA4A",
+            "TUBB2C",
+            "TUBA3C",
+            "TUBA3D",
+            "TUBB2A",
+            "TUBB8",
+            "TUBA3E",
+            "TUBA1A",
+            "TUBA1C",
+            "TUBB6",
+            "TUBB2B"
+        ]
+    },
+    "BRD-K09416995": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "HMGCR"
+        ]
+    },
+    "BRD-K97514127": {
+        "cells": [
+            "VCAP",
+            "A549",
+            "A375",
+            "MCF7",
+            "HT29"
+        ],
+        "targets": [
+            "TUBB4",
+            "TUBA1B",
+            "TUBA4A",
+            "TUBB2C",
+            "TUBA3C",
+            "TUBA3D",
+            "TUBB2A",
+            "TUBB8",
+            "TUBA3E",
+            "TUBA1A",
+            "TUBA1C",
+            "TUBB6",
+            "TUBB2B"
+        ]
+    },
+    "BRD-A60414806": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "TUBB4",
+            "TUBA1B",
+            "TUBA4A",
+            "TUBB2C",
+            "TUBA3C",
+            "TUBA3D",
+            "TUBB2A",
+            "TUBB8",
+            "TUBA3E",
+            "TUBA1A",
+            "TUBA1C",
+            "TUBB6",
+            "TUBB2B"
+        ]
+    },
+    "BRD-A22783572": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "TUBB4",
+            "TUBA1B",
+            "TUBA4A",
+            "TUBB2C",
+            "TUBA3C",
+            "TUBA3D",
+            "TUBB2A",
+            "TUBB8",
+            "TUBA3E",
+            "TUBA1A",
+            "TUBA1C",
+            "TUBB6",
+            "TUBB2B"
+        ]
+    },
+    "BRD-A46335897": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A549",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "HRH1"
+        ]
+    },
+    "BRD-K81169441": {
+        "cells": [
+            "VCAP",
+            "A375",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "HMGCR"
+        ]
+    },
+    "BRD-K81709173": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A375",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A07440155": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "ADRA2A"
+        ]
+    },
+    "BRD-K34776109": {
+        "cells": [
+            "VCAP",
+            "A375",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "ABCC8",
+            "KCNJ11"
+        ]
+    },
+    "BRD-K89626439": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "FKBP1A"
+        ]
+    },
+    "BRD-K49577446": {
+        "cells": [
+            "A549",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A55594068": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "TUBB4",
+            "TUBA1B",
+            "TUBA4A",
+            "TUBB2C",
+            "TUBA3C",
+            "TUBA3D",
+            "TUBB2A",
+            "TUBB8",
+            "TUBA3E",
+            "TUBA1A",
+            "TUBA1C",
+            "TUBB6",
+            "TUBB2B"
+        ]
+    },
+    "BRD-A60571864": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A69951442": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K41260949": {
+        "cells": [
+            "VCAP",
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "ALDH5A1"
+        ]
+    },
+    "BRD-A07000685": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A13133631": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "A549"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K90553655": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "AR"
+        ]
+    },
+    "BRD-A92439610": {
+        "cells": [
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-M30523314": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "TUBB4",
+            "TUBA1B",
+            "TUBA4A",
+            "TUBB2C",
+            "TUBA3C",
+            "TUBA3D",
+            "TUBB2A",
+            "TUBB8",
+            "TUBA3E",
+            "TUBA1A",
+            "TUBA1C",
+            "TUBB6",
+            "TUBB2B"
+        ]
+    },
+    "BRD-K92428153": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "IMPDH2"
+        ]
+    },
+    "BRD-A26095496": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K12994359": {
+        "cells": [
+            "A549",
+            "A375",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "PTGS2",
+            "COX2"
+        ]
+    },
+    "BRD-A96107863": {
+        "cells": [
+            "VCAP",
+            "A549",
+            "A375",
+            "HA1E"
+        ],
+        "targets": [
+            "CACNA1D"
+        ]
+    },
+    "BRD-K99369265": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "FKBP1A"
+        ]
+    },
+    "BRD-K32398298": {
+        "cells": [
+            "VCAP",
+            "HT29",
+            "A549",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "GABRP",
+            "GABRB1",
+            "GABRB2",
+            "GABRA4",
+            "GABRE",
+            "GABRG1",
+            "GABRQ"
+        ]
+    },
+    "BRD-A44448661": {
+        "cells": [
+            "VCAP",
+            "HT29",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "GABRP",
+            "GABRB1",
+            "GABRB2",
+            "GABRA4",
+            "GABRE",
+            "GABRG1",
+            "GABRQ"
+        ]
+    },
+    "BRD-K08845546": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "FKBP1A"
+        ]
+    },
+    "BRD-A10188456": {
+        "cells": [
+            "HT29",
+            "VCAP",
+            "HCC515",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A48430263": {
+        "cells": [
+            "VCAP",
+            "A549",
+            "A375",
+            "HA1E"
+        ],
+        "targets": [
+            "PPARG"
+        ]
+    },
+    "BRD-A84327315": {
+        "cells": [
+            "HCC515",
+            "A375",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "VDR"
+        ]
+    },
+    "BRD-K22134346": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "HMGCR"
+        ]
+    },
+    "BRD-K78485176": {
+        "cells": [
+            "VCAP",
+            "A375",
+            "MCF7",
+            "HT29"
+        ],
+        "targets": [
+            "AGTR1"
+        ]
+    },
+    "BRD-K92723993": {
+        "cells": [
+            "VCAP",
+            "HT29",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "PDGFRB"
+        ]
+    },
+    "BRD-K44094599": {
+        "cells": [
+            "VCAP",
+            "A375",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "FKBP1A"
+        ]
+    },
+    "BRD-K50388907": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "PPARA"
+        ]
+    },
+    "BRD-K39188321": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A375",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A90490067": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "ESR1"
+        ]
+    },
+    "BRD-K30097969": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "HMGCR"
+        ]
+    },
+    "BRD-A93424738": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A549",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K12219985": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "ABCC8",
+            "KCNJ11"
+        ]
+    },
+    "BRD-K56515112": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A549",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A49447682": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A375",
+            "HA1E"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-A65767837": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "NR3C1"
+        ]
+    },
+    "BRD-K60038276": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "MCF7",
+            "A549"
+        ],
+        "targets": [
+            "AGTR1"
+        ]
+    },
+    "BRD-K82795137": {
+        "cells": [
+            "VCAP",
+            "A375",
+            "MCF7",
+            "HT29"
+        ],
+        "targets": [
+            "HRH1"
+        ]
+    },
+    "BRD-K32164935": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "ABCC8",
+            "KCNJ11"
+        ]
+    },
+    "BRD-K99260425": {
+        "cells": [
+            "VCAP",
+            "A549",
+            "A375",
+            "HA1E"
+        ],
+        "targets": [
+            "PTGS2",
+            "COX2"
+        ]
+    },
+    "BRD-U88459701": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "A549"
+        ],
+        "targets": [
+            "HMGCR"
+        ]
+    },
+    "BRD-K78431006": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "ALK"
+        ]
+    },
+    "BRD-K13514097": {
+        "cells": [
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "A549",
+            "HT29"
+        ],
+        "targets": [
+            "FKBP1A"
+        ]
+    },
+    "BRD-A93236127": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "ATP1A1",
+            "ATP1B1",
+            "ATP1A3",
+            "ATP1B2",
+            "ATP1A2",
+            "ATP1B3",
+            "FXYD2",
+            "ATP1A4"
+        ]
+    },
+    "BRD-K63828191": {
+        "cells": [
+            "A549",
+            "A375",
+            "MCF7",
+            "HA1E",
+            "VCAP",
+            "HCC515",
+            "HT29"
+        ],
+        "targets": [
+            "ESR2"
+        ]
+    },
+    "BRD-K51350053": {
+        "cells": [
+            "VCAP",
+            "HCC515",
+            "A549",
+            "MCF7",
+            "HA1E"
+        ],
+        "targets": [
+            "ESR1"
+        ]
+    }
+}
